@@ -12,3 +12,7 @@ This project is designed to manage student Individualized Education Programs (IE
 To install the necessary dependencies, run:
 ```sh
 npm install
+```
+
+Feel free to customize this template to better fit your project's needs. If you have any specific requirements or questions, please let me know!
+Feel free to customize this template to better fit your project's needs. If you have any specific requirements or questions, please let me know!
