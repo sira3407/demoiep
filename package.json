@@ -4,6 +4,7 @@
     "@types/express": "^5.0.0",
     "@types/react": "^19.0.11",
     "@types/react-router-dom": "^5.3.3",
+    "axios": "^1.8.3",
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "mongoose": "^8.12.1",
