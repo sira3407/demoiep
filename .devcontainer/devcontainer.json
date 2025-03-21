@@ -9,7 +9,8 @@
 			"extensions": [
 				"DavidAnson.vscode-markdownlint",
 				"ms-azuretools.vscode-docker",
-				"ms-vscode-remote.remote-containers"
+				"ms-vscode-remote.remote-containers",
+				"shd101wyy.markdown-preview-enhanced"
 			]
 		}
 	}
