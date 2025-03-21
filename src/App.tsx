@@ -16,9 +16,7 @@ const App: React.FC = () => {
 
 export default App;
 
-import React from 'react';
-
-const Dashboard: React.FC = () => {
+const LocalDashboard: React.FC = () => {
   return (
     <div>
       <h1>Dashboard</h1>
@@ -26,4 +24,4 @@ const Dashboard: React.FC = () => {
   );
 }
 
-export default Dashboard;
+export { LocalDashboard };
